@@ -1,0 +1,9 @@
+1.z06 filter=lfs diff=lfs merge=lfs -text
+1.z02 filter=lfs diff=lfs merge=lfs -text
+1.z03 filter=lfs diff=lfs merge=lfs -text
+1.z04 filter=lfs diff=lfs merge=lfs -text
+1.z05 filter=lfs diff=lfs merge=lfs -text
+1.z01 filter=lfs diff=lfs merge=lfs -text
+1.z07 filter=lfs diff=lfs merge=lfs -text
+1.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
